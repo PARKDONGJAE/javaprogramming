@@ -2,7 +2,6 @@ package javastudy200;
 import java.sql.Date;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-
 public class PTS {
 	//java.sql.Date -> "yyyy.MM.dd"
 	public static String toSDate(Date msg) {
